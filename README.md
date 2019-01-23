@@ -1,2 +1,2 @@
 # markoscrape-lyrics
-Simple functions to scrape lyrics from artists to save as JSON files, and to create Markov chain models from selected artists' lyrics files.
+Simple functions to scrape artist lyrics using Genius API to save them as JSON files, and to create Markov chain models using selected artist lyrics.
